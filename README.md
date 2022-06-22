@@ -1,0 +1,2 @@
+# EmergencyMutualAidInformationManagementSystem
+应急互助信息管理系统-毕业设计
